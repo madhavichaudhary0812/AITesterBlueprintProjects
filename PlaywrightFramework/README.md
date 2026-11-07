@@ -2,6 +2,8 @@
 
 TypeScript Playwright Test framework for the VWO login page at `https://app.wingify.com/#/login`. It uses the Page Object Model, XPath locators, requirement-tagged test cases, and Allure reporting.
 
+The VWO-specific RICE-POT prompt that guided this framework is in [`Template_RICE_POT/`](./Template_RICE_POT/Chapter_02_Prompt_Engineering/RICE_POT/REALPROMPT_RICE_POT.md).
+
 ## Requirements
 
 - Node.js and npm
