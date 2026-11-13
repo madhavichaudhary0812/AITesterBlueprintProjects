@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="VWO Login Selenium Suite" parallel="false">
+  <test name="VWO Login UI">
+    <classes>
+      <class name="com.vwo.qa.tests.LoginValidTest"/>
+      <class name="com.vwo.qa.tests.LoginInvalidTest"/>
+    </classes>
+  </test>
+</suite>
